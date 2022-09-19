@@ -1,0 +1,7 @@
+name: Itemclear
+version: '${project.version}'
+main: net.sxmaa.itemclear.Itemclear
+api-version: 1.19
+authors: [ MalTeeez ]
+description: Clears items every 10 minutes.
+website: sxmaa.net
